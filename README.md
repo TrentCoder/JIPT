@@ -9,6 +9,9 @@ JIPT is a learning tool to perform basic image processing operations.  Features 
 * **EDITING** : Resize, Rotate, Crop, Cut-n-Paste, Text Annotation
 
 ![](https://github.com/TrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_01.png)
+![](https://github.com/TrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_02.png)
+![](https://github.com/TrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_03.png)
+![](https://github.com/TrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_04.png)
 
 
 Authors
