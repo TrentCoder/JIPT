@@ -8,6 +8,9 @@ JIPT is a learning tool to perform basic image processing operations.  Features 
 * **CHANNEL FUNCTIONS** : Image arithmatic, channel splitting and merging, greyscale, negative images
 * **EDITING** : Resize, Rotate, Crop, Cut-n-Paste, Text Annotation
 
+![](https://github.comTrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_01.png)
+
+
 Authors
 -------
 **Trent Lucier** : Image processing programming
