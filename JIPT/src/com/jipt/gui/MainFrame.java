@@ -122,7 +122,7 @@ public class MainFrame extends JFrame implements InternalFrameListener, ActionLi
 
  		//this.getContentPane().add(scroll_pane);
         this.getContentPane().add( desktop_pane );
-        this.setTitle("Java Image Processing Toolkit");
+        this.setTitle("Java Image Processing Toolkit TEST!!");
         this.setIconImage( new ImageIcon( JIPTsettings.GRAPHICS_PATH + "JIPT.gif").getImage() );
 
 		// Create the manager classes
