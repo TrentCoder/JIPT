@@ -8,12 +8,6 @@ JIPT is a learning tool to perform basic image processing operations.  Features 
 * **CHANNEL FUNCTIONS** : Image arithmatic, channel splitting and merging, greyscale, negative images
 * **EDITING** : Resize, Rotate, Crop, Cut-n-Paste, Text Annotation
 
-![](https://github.com/TrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_01.png)
-![](https://github.com/TrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_02.png)
-![](https://github.com/TrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_03.png)
-![](https://github.com/TrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_04.png)
-
-
 Authors
 -------
 **Trent Lucier** : Image processing programming
@@ -21,3 +15,18 @@ Authors
 **James LaTour** : GUI programming
 
 **Victor Rego** : Image file format support
+
+Screenshots
+-----------
+
+![](https://github.com/TrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_01.png)
+![](https://github.com/TrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_02.png)
+![](https://github.com/TrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_03.png)
+![](https://github.com/TrentCoder/JIPT/blob/master/JIPT/screenshots/screenshot_04.png)
+
+
+How to Run
+----------
+* Clone the repository to your desktop
+* Import the JIPT folder into a Java IDE (recommended: Eclipse)
+* Run as a Java application
