@@ -3,9 +3,10 @@ JIPT : Java Image Processing Toolkit
 
 JIPT is a learning tool to perform basic image processing operations.  Features include:
 
-* **FILTERS** : Mean, Median, Edge Detection, and Custom filtering
+* **FILTERS** : Mean, Median, and Custom filtering.
+* **EDGE DETECTION** : Sobel, LaPlace, and Roberts algorithms.    
 * **COLORS** : Brightness, Contrast, HSI, and RGB adjustment
-* **CHANNEL FUNCTIONS** : Image arithmatic, channel splitting and merging, greyscale, negative images
+* **CHANNEL FUNCTIONS** : Image arithmetic, channel splitting and merging, greyscale, negative images
 * **EDITING** : Resize, Rotate, Crop, Cut-n-Paste, Text Annotation
 
 Authors
